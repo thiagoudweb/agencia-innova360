@@ -34,3 +34,4 @@ build/
 #
  Ignorar arquivo de propriedades com credenciais reais
 **/src/main/resources/application.properties
+**/src/main/resources/application.yaml
